@@ -41,7 +41,7 @@ namespace ruap_lv6
                             new StringTable() 
                             {
                                 ColumnNames = new string[] {"MPG", "Cyl", "Displacement", "Horsepower", "Weight", "Acceleration", "Year", "CountryCode", "Model"},
-                                Values = new string[,] {  { "0", "0", "0", "0", "0", "0", "0", "0", "value" },  { "0", "0", "0", "0", "0", "0", "0", "0", "value" },  }
+                                Values = new string[,] {  { "0", "1", "0.617571", "0.456522", "0.53615", "0.238095", "0", "0", "chevrolet_chevelle_malibu" },  { "0", "1", "0.728682", "0.646739", "0.589736", "0.208333", "0", "0", "buick_skylark_320" },  }
                             }
                         },
                     },
